@@ -46,16 +46,16 @@ Tools & Platforms:
 
 
 
-📁 Repository Structure
+## 📁 Repository Structure
 
-plaintext
 summer_projects/<br>
-│
+│<br>
 ├── anomaly_detection_sql/<br>
-├── automated_reporting/
-├── hp_tuning_gcp/
-├── topic_modeling_nmf/
-├── multiclass_text_classification/
-├── trading_bot/
-├── bigquery_cleanup/
-└── other_projects/
+├── automated_reporting/<br>
+├── hp_tuning_gcp/<br>
+├── topic_modeling_nmf/<br>
+├── multiclass_text_classification/<br>
+├── trading_bot/<br>
+├── bigquery_cleanup/<br>
+└── other_projects/<br>
+
