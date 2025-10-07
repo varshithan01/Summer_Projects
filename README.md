@@ -49,9 +49,9 @@ Tools & Platforms:
 📁 Repository Structure
 
 plaintext
-summer_projects/
+summer_projects/<br>
 │
-├── anomaly_detection_sql/
+├── anomaly_detection_sql/<br>
 ├── automated_reporting/
 ├── hp_tuning_gcp/
 ├── topic_modeling_nmf/
